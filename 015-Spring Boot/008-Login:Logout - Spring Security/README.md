@@ -1,0 +1,1 @@
+An app that uses Spring Boot, Spring Security, Thymeleaf, Spring Data JPA
